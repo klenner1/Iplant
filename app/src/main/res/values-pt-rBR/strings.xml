@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iplant</string>
+    <string name="name">Nome</string>
+    <string name="plant_name">Nome da planta</string>
+    <string name="plant_type">Tipo</string>
+    <string name="action_settings">Configurações</string>
+    <string name="lastWater">Última aguada</string>
+    <string name="humidity">Umidade</string>
+    <string name="plant_image">Imagem da planta</string>
+    <string name="add_photo">Adicione uma foto da sua planta</string>
+    <string name="name_your_plant">Nomeie sua planta</string>
+    <string name="equipment_code">Código do equipamento</string>
+    <string name="save">salvar</string>
+    <string name="invalid_equipment_code">Código de equipamento inválido!</string>
+    <string name="your_plants_need_care">Suas plantas precisam de cuidado</string>
+    <string name="I_want_water">Quero água</string>
+    <string name="someone_is_drowning">Alguém está se afogando</string>
+    <string name="turn_on">Ligar</string>
+    <string name="turn_off">Desligar</string>
+    <string name="weather">clima</string>
+    <string name="sky">céu</string>
+    <string name="login">Login</string>
+    <string name="plant_registration">Cadastro de plantas</string>
+    <string name="someone_watered_your_plants">Alguém regou suas plantas</string>
+    <string name="login_error">Erro de login</string>
+    <string name="title_activity_main">Lista de plantas</string>
+    <string name="dry">Seco</string>
+    <string name="your_plant_wants_water">Sua planta quer água</string>
+    <string name="plant_name_is_required">O nome da planta é obrigatório</string>
+    <string name="equipment_code_is_required">O código do equipamento é obrigatório</string>
+    <string name="wrong_equipment_code">Código errado</string>
+    <string name="your_plant_is_fine">Sua planta está bem</string>
+    <string name="lots_of_water">Muita água, está chovendo?</string>
+    <string name="watering_but_still_needs_more_water">Regando, mas ainda precisa de mais água</string>
+    <string name="watering_you_can_turn_off_the_tap">Regando, pode desligar a torneira</string>
+    <string name="turn_off_the_tap_there_is_plenty_of_water">Desliga a torneira, já tem muita água!</string>
+    <string name="you_was_logged_off">Você foi desconectado</string>
+    <string name="add">Adicionar</string>
+    <string name="someone_is_satisfied">Alguém esta satisfeito</string>
+    <string name="exit">Sair</string>
+    <string name="loading">Carregando</string>
+    <string name="Someone_turned_off_the_tap">Alguém desligou a torneira</string>
+</resources>

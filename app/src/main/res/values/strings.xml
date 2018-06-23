@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Iplant</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="lastWater">Last Water</string>
+    <string name="humidity">Humidity</string>
+    <string name="title_activity_qr_code" translatable="false">QRCode</string>
+    <string name="plant_name">Plant name</string>
+    <string name="plant_image">Plant image</string>
+    <string name="add_photo">⬅️Add a photo of your plant</string>
+    <string name="name_your_plant">Name your plant</string>
+    <string name="plant_type">Type</string>
+    <string name="equipment_code">Equipment code</string>
+    <string name="save">Save</string>
+    <string name="invalid_equipment_code">invalid equipment code!</string>
+    <string name="sky">sky</string>
+    <string name="weather">weather</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn off</string>
+    <string name="your_plants_need_care">Your plants need care</string>
+    <string name="I_want_water">I want water</string>
+    <string name="someone_is_drowning">Someone is drowning</string>
+    <string name="someone_watered_your_plants">Someone watered your plants</string>
+    <string name="login">Login</string>
+    <string name="background" translatable="false">Background</string>
+    <string name="plant_registration">Plant registration</string>
+    <string name="login_error">Login error</string>
+    <string name="equipment_code_is_required">Equipment code is required</string>
+    <string name="plant_name_is_required">Plant name is required</string>
+    <string name="dry">Dry</string>
+    <string name="title_activity_main">Plant list</string>
+    <string name="your_plant_wants_water">Your plant wants water</string>
+    <string name="wrong_equipment_code">Wrong code</string>
+    <string name="your_plant_is_fine">Your plant is fine</string>
+    <string name="lots_of_water">Lots of water, is it raining?</string>
+    <string name="watering_but_still_needs_more_water">Watering, but still needs more water</string>
+    <string name="watering_you_can_turn_off_the_tap">Watering, you can turn off the tap</string>
+    <string name="turn_off_the_tap_there_is_plenty_of_water">Turn off the tap, there\'s plenty of water!</string>
+    <string name="you_was_logged_off">You was logged off</string>
+    <string name="exit">Exit</string>
+    <string name="add">add</string>
+    <string name="loading">Loading</string>
+    <string name="someone_is_satisfied">Someone is satisfied</string>
+    <string name="Someone_turned_off_the_tap">Someone turned off the tap</string>
+</resources>

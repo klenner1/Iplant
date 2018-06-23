@@ -1,0 +1,78 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorGreenPrimary</item>
+        <item name="colorPrimaryDark">@color/colorGreenPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="coordinatorLayoutStyle">@style/Widget.Design.CoordinatorLayout</item>
+    </style>
+
+    <style name="AppThemeGreen" parent="AppTheme">
+        <item name="colorPrimary">@color/colorGreenPrimary</item>
+        <item name="colorPrimaryDark">@color/colorGreenPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeDesert" parent="AppTheme">
+        <item name="colorPrimary">@color/colorDesertPrimary</item>
+        <item name="colorPrimaryDark">@color/colorDesertPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeHumid" parent="AppTheme">
+        <item name="colorPrimary">@color/colorHumidPrimary</item>
+        <item name="colorPrimaryDark">@color/colorHumidPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.fitsSystemWindows" parent="AppTheme.NoActionBar">
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="AppTheme.Text.Big.Black" parent="AppTheme">
+        <item name="android:textColor">@android:color/background_dark</item>
+        <item name="android:textColorPrimary">@android:color/background_dark</item>
+        <item name="android:textColorPrimaryInverse">@android:color/background_light</item>
+        <item name="android:textSize">@dimen/text_big</item>
+    </style>
+    <style name="AppTheme.Text.Big.White" parent="AppTheme">
+        <item name="android:textColor">@android:color/background_light</item>
+        <item name="android:textColorPrimary">@android:color/background_light</item>
+        <item name="android:textColorPrimaryInverse">@android:color/background_dark</item>
+        <item name="android:textSize">@dimen/text_big</item>
+    </style>
+
+    <style name="AppTheme.Text.Medium.Black" parent="AppTheme">
+        <item name="android:textColor">@android:color/background_dark</item>
+        <item name="android:textColorPrimary">@android:color/background_dark</item>
+        <item name="android:textColorPrimaryInverse">@android:color/background_light</item>
+        <item name="android:textSize">@dimen/text_medium</item>
+    </style>
+    <style name="AppTheme.Text.Medium.White" parent="AppTheme">
+        <item name="android:textColor">@android:color/background_light</item>
+        <item name="android:textColorPrimary">@android:color/background_light</item>
+        <item name="android:textColorPrimaryInverse">@android:color/background_dark</item>
+        <item name="android:textSize">@dimen/text_medium</item>
+    </style>
+
+    <style name="AppTheme.Text.Small.Black" parent="AppTheme">
+        <item name="android:textColor">@android:color/background_dark</item>
+        <item name="android:textColorPrimary">@android:color/background_dark</item>
+        <item name="android:textColorPrimaryInverse">@android:color/background_light</item>
+        <item name="android:textSize">@dimen/text_small</item>
+    </style>
+
+    <style name="AppTheme.Text.Small.White" parent="AppTheme">
+        <item name="android:textColor">@android:color/background_light</item>
+        <item name="android:textColorPrimary">@android:color/background_light</item>
+        <item name="android:textColorPrimaryInverse">@android:color/background_dark</item>
+        <item name="android:textSize">@dimen/text_small</item>
+    </style>
+</resources>
